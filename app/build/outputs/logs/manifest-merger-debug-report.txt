@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\Jason\.android\build-cache\984fa3e112a2b83efd7a41ecc4f8e9eda2dd51e3\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\Jason\.android\build-cache\984fa3e112a2b83efd7a41ecc4f8e9eda2dd51e3\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:8:5-49:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\8c8638922f17e9796fc56ba940081837c2060979\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\0be47a22a19b0c3c7217781ee98129a17b2ca256\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\1b75b830b2e1c1c171eb46c6fe68791653cf46e7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jason\.android\build-cache\af0489fbef3160ba0dd65d4643cba86096fc0231\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\Jason\.android\build-cache\984fa3e112a2b83efd7a41ecc4f8e9eda2dd51e3\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Jason\.android\build-cache\3a8ce0c8acf4ba6b4ad22275db1eb95ca03d3296\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\Jason\.android\build-cache\a880832a6ba323f130a6345b1a98c39e9dcc9e6a\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Jason\.android\build-cache\1a1d8ca9e2d3b83ff87434deca9982bec473bd52\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\ce260d436b2c3a45093e03b8c16c87374b8e06e9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\ea681a4be6f2b4f6f2df8e36fc00355ecad5edc4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\21d23409b6ec2717b2ee14b3db986a010e0bb688\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\2dd43a2d053dd63ba5865e382426ea3cdd24c559\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\3a0de73c55e49e4df0e97b3c093798f65b98688b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\2392bbe3ec218a961450c69bdfe5dff10e63d170\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Jason\.android\build-cache\35be72813ab9e933a20712d2207d2513b50c51b3\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.jason.aplicacion_grupal.Inicio_Activity
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:15:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.jason.aplicacion_grupal.ForosActivity
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:22:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:23:13-27:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:26:27-73
+activity#com.example.jason.aplicacion_grupal.EducativosActivity
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:29:19-53
+activity#com.example.jason.aplicacion_grupal.UniversidadesActivity
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:36:19-56
+activity#com.example.jason.aplicacion_grupal.CarrerasUcspActivity
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:43:9-58
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:43:19-55
+activity#com.example.jason.aplicacion_grupal.CCompActivity
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:44:9-51
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:44:19-48
+activity#com.example.jason.aplicacion_grupal.SemestreActivity
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:45:9-54
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:45:19-51
+activity#com.example.jason.aplicacion_grupal.Login
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:46:9-43
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:46:19-40
+activity#com.example.jason.aplicacion_grupal.RegisterActivity
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:47:9-54
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:47:19-51
+activity#com.example.jason.aplicacion_grupal.Hilos
+ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:48:9-52
+	android:name
+		ADDED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml:48:19-40
+uses-sdk
+INJECTED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\8c8638922f17e9796fc56ba940081837c2060979\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\0be47a22a19b0c3c7217781ee98129a17b2ca256\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\1b75b830b2e1c1c171eb46c6fe68791653cf46e7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jason\.android\build-cache\af0489fbef3160ba0dd65d4643cba86096fc0231\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\Jason\.android\build-cache\984fa3e112a2b83efd7a41ecc4f8e9eda2dd51e3\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Jason\.android\build-cache\3a8ce0c8acf4ba6b4ad22275db1eb95ca03d3296\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\Jason\.android\build-cache\a880832a6ba323f130a6345b1a98c39e9dcc9e6a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Jason\.android\build-cache\1a1d8ca9e2d3b83ff87434deca9982bec473bd52\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\ce260d436b2c3a45093e03b8c16c87374b8e06e9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\ea681a4be6f2b4f6f2df8e36fc00355ecad5edc4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\21d23409b6ec2717b2ee14b3db986a010e0bb688\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\2dd43a2d053dd63ba5865e382426ea3cdd24c559\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\3a0de73c55e49e4df0e97b3c093798f65b98688b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\2392bbe3ec218a961450c69bdfe5dff10e63d170\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Jason\.android\build-cache\35be72813ab9e933a20712d2207d2513b50c51b3\output\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\8c8638922f17e9796fc56ba940081837c2060979\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jason\AndroidStudioProjects\Aplicacion_grupal\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\8c8638922f17e9796fc56ba940081837c2060979\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\0be47a22a19b0c3c7217781ee98129a17b2ca256\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\1b75b830b2e1c1c171eb46c6fe68791653cf46e7\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\ce260d436b2c3a45093e03b8c16c87374b8e06e9\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\ea681a4be6f2b4f6f2df8e36fc00355ecad5edc4\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\21d23409b6ec2717b2ee14b3db986a010e0bb688\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\2dd43a2d053dd63ba5865e382426ea3cdd24c559\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\3a0de73c55e49e4df0e97b3c093798f65b98688b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\2392bbe3ec218a961450c69bdfe5dff10e63d170\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\8c8638922f17e9796fc56ba940081837c2060979\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jason\.android\build-cache\8c8638922f17e9796fc56ba940081837c2060979\output\AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\Jason\.android\build-cache\984fa3e112a2b83efd7a41ecc4f8e9eda2dd51e3\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\Jason\.android\build-cache\984fa3e112a2b83efd7a41ecc4f8e9eda2dd51e3\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\Jason\.android\build-cache\984fa3e112a2b83efd7a41ecc4f8e9eda2dd51e3\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Jason\.android\build-cache\3a8ce0c8acf4ba6b4ad22275db1eb95ca03d3296\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Jason\.android\build-cache\3a8ce0c8acf4ba6b4ad22275db1eb95ca03d3296\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Jason\.android\build-cache\3a8ce0c8acf4ba6b4ad22275db1eb95ca03d3296\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Jason\.android\build-cache\3a8ce0c8acf4ba6b4ad22275db1eb95ca03d3296\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Jason\.android\build-cache\1a1d8ca9e2d3b83ff87434deca9982bec473bd52\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Jason\.android\build-cache\1a1d8ca9e2d3b83ff87434deca9982bec473bd52\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Jason\.android\build-cache\1a1d8ca9e2d3b83ff87434deca9982bec473bd52\output\AndroidManifest.xml:20:20-65
